@@ -6,7 +6,7 @@ Thoughtbot의 [rcm](https://github.com/thoughtbot/rcm) 을 이용해서 dotfile�
 필요한 것
 ------------
 
-zsh을 시스템으 기본 쉘로 설정하세요.
+zsh을 시스템의 기본 쉘로 설정하세요.
 
     chsh -s $(which zsh)
 
@@ -36,7 +36,7 @@ dotfiles를 설치하세요.
 
 를 실행해서 새로운 파일과 vim 플러그인을 업데이트 할 수 있습니다.
 
-업데이트
+라이센스
 -------
 
 dotfiles is copyright © 2009-2018 thoughtbot. It is free software, and may be
